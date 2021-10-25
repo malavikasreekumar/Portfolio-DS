@@ -1,4 +1,3 @@
-# Portfolio-DS
 
 # Malavika Sreekumar
 *An Aspiring Data Scientist | Engineer at IBM*
